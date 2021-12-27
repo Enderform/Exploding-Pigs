@@ -1,0 +1,4 @@
+name: ExplodingPigs
+version: '${project.version}'
+main: me.enderform.explodingpigs.ExplodingPigs
+api-version: 1.18
